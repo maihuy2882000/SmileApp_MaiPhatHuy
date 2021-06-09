@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477541861962",
+    "project_id": "smileapp-ec816",
+    "storage_bucket": "smileapp-ec816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477541861962:android:6b5dc8bdc6e583563234b3",
+        "android_client_info": {
+          "package_name": "com.example.smilefaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477541861962-6aipens14pgtabdmtlcglv7172acm8hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ZEjJLIADLJ45VCWSGr_gPKBaibizxM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477541861962-6aipens14pgtabdmtlcglv7172acm8hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
